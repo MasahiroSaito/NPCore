@@ -1,9 +1,8 @@
 name: NPCore
 main: com.nepian.npcore.NPCore
-version: 0.2.3
+version: 1.0
 author: Nepian
 load: POSTWORLD
-softdepend: [ Multiverse-Core ]
 commands:
   npcore:
     usage: /<command>
